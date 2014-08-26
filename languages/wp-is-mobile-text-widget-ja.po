@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Is Mobile Text Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-22 23:59+0900\n"
+"PO-Revision-Date: 2014-08-22 20:23+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Arbitrary text or HTML."
+msgstr "任意のテキストや HTML"
+
+msgid "WP Is Mobile Text"
+msgstr ""
+
+msgid "Title:"
+msgstr "タイトル:"
+
+msgid "Text:"
+msgstr "テキスト:"
+
+msgid "WP Is Mobile Text:"
+msgstr "モバイル時のテキスト:"
+
+msgid "Automatically add paragraphs"
+msgstr "自動的に段落追加する"
+

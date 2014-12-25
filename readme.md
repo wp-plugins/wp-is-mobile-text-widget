@@ -14,5 +14,7 @@ This WordPress plugin adds text widget that switched display text using wp_is_mo
 
 ## Changelog
 
+* Version 1.0.1
+	* clean up source by the PHP_CodeSniffer
 * Version 1.0.0
-	* initial release.
+	* initial release
